@@ -12,11 +12,16 @@ export default {
       articleList: "",
       github: "",
       stats: "",
+      taData: "",
     };
   },
   methods: {
     fetchData(e) {
       e.preventDefault();
+      this.taData = "";
+      this.articleList = "";
+      this.github = "";
+      this.stats = "";
       this.fetchInfo(this.username.toLowerCase());
     },
     async fetchInfo(x) {
