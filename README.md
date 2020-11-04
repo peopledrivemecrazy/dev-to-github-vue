@@ -9,7 +9,7 @@ A Vue implementation of earlier [Svelte version](https://github.com/peopledrivem
 
 | Metrics              | Vue                                                     | Svelte                            |
 |----------------------|---------------------------------------------------------|-----------------------------------|
-| Website              | [https://vue-widget.anoram.com/](https://vue-widget.anoram.com/)                                                 | [https://github.anoram.com](https://github.anoram.com)                               |
+| Website              | [https://vue-github.anoram.com/](https://vue-github.anoram.com/)                                                 | [https://github.anoram.com](https://github.anoram.com)                               |
 | Bundle Size in ~KB    | 21.3                                                   | 6.2                              |
 | Bundler              | vite+webpack                                            | rollup                            |
 
